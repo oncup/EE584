@@ -1,5 +1,5 @@
 # EE584
 
 pip install -r requirements.txt    
-cd cd preprocessing    
+cd preprocessing    
 python aspect_extraction.py
