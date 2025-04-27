@@ -1,4 +1,4 @@
-# EE584
+# IS584
 
 pip install -r requirements.txt    
 cd preprocessing    
